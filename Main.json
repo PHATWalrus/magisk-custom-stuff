@@ -1,0 +1,43 @@
+{
+
+  "app": {
+
+    "version": "bf80b08b",
+
+    "versionCode": "22003",
+
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk-files/canary/app-debug.apk",
+
+    "note": "notes.md"
+
+  },
+
+  "magisk": {
+
+    "version": "bf80b08b",
+
+    "versionCode": "22003",
+
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk-files/canary/app-debug.apk",
+
+    "note": "notes.md",
+
+    "md5": "77d40759a0cdfae059b1e3397a381187"
+
+  },
+
+  "uninstaller": {
+
+    "link": "magisk-uninstaller.zip"
+
+  },
+
+  "stub": {
+
+    "versionCode": "19",
+
+    "link": "stub-release.apk"
+
+  }
+
+}
